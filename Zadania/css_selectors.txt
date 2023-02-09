@@ -1,0 +1,7 @@
+Going to: button.uitk-fake-input.uitk-form-field-trigger
+Check-in: button#d1-btn.uitk-faux-input.uitk-form-field-trigger
+Check-out: button#d2-btn.uitk-faux-input.uitk-form-field-trigger
+Add a flight: input#add-flight-switch.uitk-layout-flex-item.uitk-layout-flex-item-flex-shrink-0.uitk-layout-flex-item
+Add a car: input#add-car-switch.class="uitk-layout-flex-item.uitk-layout-flex-item-flex-shrink-0.uitk-layout-flex-item"
+Search: button.uitk-button uitk-button-large.uitk-button-fullWidth.uitk-button-has-text.uitk-button-primary
+Cars: a.uitk-tab-anchor > span.uitk-tab-text
